@@ -14,12 +14,12 @@ By achieving these objectives, this data analysis project aims to provide valuab
 
 ### **Conclusions**
 
-Based on the analysis, it can be concluded that customers prioritize healthy food choices. The top-selling categories are Produce and Dairy & Eggs, which are predominantly represented in the top 15 categories. The busiest days are Sundays and Mondays, with the peak starting from 9am and continuing until 4pm. Additionally, reorders peak every 7 days, and the majority of orders have a basket size of 1-15 products. Banana is the most popular product, and Organic Strawberries, Organic Avocado, Strawberries, Honeycrisp Apple, Organic Fuji Apple, Organic Whole Milk, and Limes are frequently brought with them.
+Based on the analysis, it can be concluded that customers prioritize healthy food choices. The top-selling categories are Produce and Dairy & Eggs, which are predominantly represented in the top 15 categories. The busiest days are Sundays and Mondays, with the peak starting from 9am and continuing until 4pm. Additionally, reorders peak every 7 days, and the majority of orders have a basket size of 1-15 products. Banana is the most popular product, and Organic Strawberries, Organic Avocado, Strawberries, Honeycrisp Apple, Organic Fuji Apple, Organic Whole Milk, and Limes are frequently bought with them.
 
 Based on the findings, the following suggestions can be made:
 
 - Expand the range of healthy food options, offer promotions and discounts on healthy food products, and provide recipes and cooking tips to cater to customer preferences for healthy food.
-- Increase the variety in the best-selling department, ensure enough inventory for the best-selling products, feature the best-selling product on the first page, and recommend frequently brought products to customers to improve sales and customer satisfaction.
+- Increase the variety in the best-selling department, ensure enough inventory for the best-selling products, feature the best-selling product on the first page, and recommend frequently bought products to customers to improve sales and customer satisfaction.
 - Increase website capacity and personal shoppers during peak times, create promotions during weekends and assign specialized staff members to each department during business hours to manage the high traffic.
 - Send targeted popup notifications 5-6 days after the last order to remind customers to replenish their goods and improve the reorder rate.
 
